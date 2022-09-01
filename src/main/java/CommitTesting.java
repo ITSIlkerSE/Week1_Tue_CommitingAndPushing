@@ -9,5 +9,7 @@ public class CommitTesting {
 
         System.out.println(x + y);
         System.out.println(x * y);
+        System.out.println(x - y);
+        System.out.println(y - x);
     }
 }
