@@ -8,5 +8,6 @@ public class CommitTesting {
         int y = 16;
 
         System.out.println(x + y);
+        System.out.println(x * y);
     }
 }
